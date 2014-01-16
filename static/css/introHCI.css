@@ -21,6 +21,9 @@ body {
 	background: none;
 }
 
+p{
+     font-variant: small-caps;
+}
 .jumbotron:after {
      content:"";
      background: url("http://lorempixel.com/1140/283");
